@@ -1,6 +1,5 @@
 # Curso-FullStack-JS-TS-RJS
 
-# Curso-FullStack-JS-TS-RJS
 
 ## 💻 Sobre o projeto
 
